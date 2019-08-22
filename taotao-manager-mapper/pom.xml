@@ -6,7 +6,7 @@
 	  <version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>taotao-manager-mapper</artifactId>
-	<!-- 易拉罐里 -->
+	<!-- 依赖管里 -->
 	<dependencies>
 		<dependency>
 			<groupId>com.taotao</groupId>
@@ -41,4 +41,17 @@
 			<artifactId>druid</artifactId>
 		</dependency>
 	</dependencies>
+	<build>
+		<resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                    <include>**/*.xml</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+	</build>
+	
 </project>
