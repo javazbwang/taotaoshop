@@ -1,7 +1,12 @@
 package com.taotao.common.pojo;
 
 import java.util.List;
-
+/**
+ * 分页
+ * @ClassName: PageResult.java
+ * @version: v1.0.0
+ * @author: dwg
+ */
 public class PageResult {
 	private long total;
 	private List<?> rows;

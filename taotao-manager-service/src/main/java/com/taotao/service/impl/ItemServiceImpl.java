@@ -1,5 +1,6 @@
 package com.taotao.service.impl;
 
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -8,6 +9,8 @@ import org.springframework.stereotype.Service;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.taotao.common.pojo.PageResult;
+import com.taotao.common.pojo.TaotaoResult;
+import com.taotao.common.utils.IDUtils;
 import com.taotao.mapper.ItemMapper;
 import com.taotao.pojo.Item;
 import com.taotao.pojo.ItemExample;
@@ -63,6 +66,29 @@ public class ItemServiceImpl implements ItemService {
 		PageInfo<Item> pageInfo=new PageInfo<Item>(list);
 		result.setTotal(pageInfo.getTotal());
 		return result;
+	}
+	/**
+	 * 添加商品
+	 * @Function createItem
+	 * @author dwg
+	 * @param item
+	 * @return 
+	 * @see com.taotao.service.ItemService#createItem(com.taotao.pojo.Item)
+	 */
+	@Override
+	public TaotaoResult createItem(Item item) {
+		//生成商品id
+		Long itemId=IDUtils.genItemId();
+		item.setId(itemId);
+		//商品状态 1-正常，2-下架，3-删除
+		item.setStatus((byte) 1);
+		item.setCreated(new Date());
+		item.setUpdated(new Date());
+		//插入到数据库
+		itemMapper.insert(item);
+		
+		
+		return TaotaoResult.ok();
 	}
 
 }
