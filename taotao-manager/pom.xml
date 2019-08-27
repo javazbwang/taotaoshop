@@ -24,4 +24,20 @@
   	<module>taotao-manager-service</module>
   	<module>taotao-manager-web</module>
   </modules>
+  <build>
+		<!-- 配置插件 -->
+		<plugins>
+			<plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<configuration>
+					<port>8080</port>
+					<path>/</path>
+					<!-- <url>http://192.168.25.135:8080/manager/text</url>
+					<username>tomcat</username>
+					<password>tomcat</password> -->
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>

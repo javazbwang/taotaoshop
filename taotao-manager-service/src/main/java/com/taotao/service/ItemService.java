@@ -12,5 +12,5 @@ import com.taotao.pojo.Item;
 public interface ItemService {
 	Item getItemById(long itemId);
 	PageResult getItemList(int page,int rows);
-	TaotaoResult createItem(Item item);
+	TaotaoResult createItem(Item item, String desc, String itemParam) throws Exception;
 }
