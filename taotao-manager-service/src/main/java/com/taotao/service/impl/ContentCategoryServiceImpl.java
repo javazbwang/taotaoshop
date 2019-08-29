@@ -1,11 +1,13 @@
 package com.taotao.service.impl;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.taotao.common.pojo.TaotaoResult;
 import com.taotao.common.pojo.TreeNode;
 import com.taotao.mapper.ContentCategoryMapper;
 import com.taotao.pojo.ContentCategory;
@@ -49,6 +51,31 @@ public class ContentCategoryServiceImpl implements ContentCategoryService {
 			resultList.add(node);
 		}
 		return resultList;
+	}
+	@Override
+	public TaotaoResult insertContentCategory(long parentId, String name) {
+		//创建一个pojo
+		ContentCategory contentCategory=new ContentCategory();
+		contentCategory.setName(name);
+		contentCategory.setIsParent(false);
+//		状态 1-正常，2-删除
+		contentCategory.setStatus(1);
+		contentCategory.setParentId(parentId);
+		contentCategory.setSortOrder(1);
+		contentCategory.setCreated(new Date());
+		contentCategory.setUpdated(new Date());
+		
+		contentCategoryMapper.insert(contentCategory);
+//		查看父节点是否为true
+		ContentCategory parentCat = contentCategoryMapper.selectByPrimaryKey(parentId);
+//		判断是否为true
+		if (!parentCat.getIsParent()) {
+			parentCat.setIsParent(true);
+			//更新父节点
+			contentCategoryMapper.updateByPrimaryKey(parentCat);
+		}
+		
+		return TaotaoResult.ok(contentCategory);
 	}
 
 }

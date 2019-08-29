@@ -1,227 +1,565 @@
-2019-08-27 22:10:38,019 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,019 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,019 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,020 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,020 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 474(Long)
-2019-08-27 22:10:38,022 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
-2019-08-27 22:10:38,022 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,022 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,022 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,023 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 486(Long)
-2019-08-27 22:10:38,024 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
-2019-08-27 22:10:38,024 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,024 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,025 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,025 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 495(Long)
-2019-08-27 22:10:38,027 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
-2019-08-27 22:10:38,027 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,027 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,027 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,028 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 496(Long)
-2019-08-27 22:10:38,030 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,030 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,030 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,031 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,032 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 503(Long)
-2019-08-27 22:10:38,036 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
-2019-08-27 22:10:38,036 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,036 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,037 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,037 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 509(Long)
-2019-08-27 22:10:38,040 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
-2019-08-27 22:10:38,040 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,040 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,041 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,041 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 512(Long)
-2019-08-27 22:10:38,043 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
-2019-08-27 22:10:38,044 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,044 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,044 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,045 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 516(Long)
-2019-08-27 22:10:38,048 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
-2019-08-27 22:10:38,049 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,049 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,050 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,052 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 520(Long)
-2019-08-27 22:10:38,054 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
-2019-08-27 22:10:38,055 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,055 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,055 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,055 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 525(Long)
-2019-08-27 22:10:38,057 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
-2019-08-27 22:10:38,057 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,057 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,057 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,057 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 529(Long)
-2019-08-27 22:10:38,059 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
-2019-08-27 22:10:38,059 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,059 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,060 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,060 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 534(Long)
-2019-08-27 22:10:38,062 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
-2019-08-27 22:10:38,062 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,062 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,062 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,062 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 539(Long)
-2019-08-27 22:10:38,064 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
-2019-08-27 22:10:38,064 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,064 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,065 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,065 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 543(Long)
-2019-08-27 22:10:38,067 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
-2019-08-27 22:10:38,067 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,067 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,068 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,068 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 546(Long)
-2019-08-27 22:10:38,070 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
-2019-08-27 22:10:38,070 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,070 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,071 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,071 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 558(Long)
-2019-08-27 22:10:38,073 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
-2019-08-27 22:10:38,073 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,073 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,074 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,074 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 559(Long)
-2019-08-27 22:10:38,076 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
-2019-08-27 22:10:38,076 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,076 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,077 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,077 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 562(Long)
-2019-08-27 22:10:38,079 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
-2019-08-27 22:10:38,079 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,079 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,080 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,080 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 567(Long)
-2019-08-27 22:10:38,082 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
-2019-08-27 22:10:38,082 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,083 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,083 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,083 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 580(Long)
-2019-08-27 22:10:38,085 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
-2019-08-27 22:10:38,085 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,085 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,086 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,086 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 581(Long)
-2019-08-27 22:10:38,088 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
-2019-08-27 22:10:38,089 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,089 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,089 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,089 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 591(Long)
-2019-08-27 22:10:38,091 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
-2019-08-27 22:10:38,092 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,092 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,092 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,092 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 604(Long)
-2019-08-27 22:10:38,095 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
-2019-08-27 22:10:38,095 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,095 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,096 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,096 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 614(Long)
-2019-08-27 22:10:38,098 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
-2019-08-27 22:10:38,098 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,098 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,099 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,099 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 625(Long)
-2019-08-27 22:10:38,103 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
-2019-08-27 22:10:38,103 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,103 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,104 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,104 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 633(Long)
-2019-08-27 22:10:38,106 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,107 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,107 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,107 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,108 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 634(Long)
-2019-08-27 22:10:38,111 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 13
-2019-08-27 22:10:38,111 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,112 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,112 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,117 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 648(Long)
-2019-08-27 22:10:38,121 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
-2019-08-27 22:10:38,121 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,121 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,122 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,122 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 660(Long)
-2019-08-27 22:10:38,125 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,125 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,125 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,126 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,126 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 667(Long)
-2019-08-27 22:10:38,129 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 15
-2019-08-27 22:10:38,129 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,129 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,130 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,130 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 683(Long)
-2019-08-27 22:10:38,134 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
-2019-08-27 22:10:38,135 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,135 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,135 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,136 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 691(Long)
-2019-08-27 22:10:38,139 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
-2019-08-27 22:10:38,139 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,139 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,140 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,140 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 699(Long)
-2019-08-27 22:10:38,143 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,143 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,143 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,143 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,144 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 700(Long)
-2019-08-27 22:10:38,147 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
-2019-08-27 22:10:38,147 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,147 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,148 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,152 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 711(Long)
-2019-08-27 22:10:38,154 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
-2019-08-27 22:10:38,155 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,155 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,155 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,156 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 718(Long)
-2019-08-27 22:10:38,158 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
-2019-08-27 22:10:38,158 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,158 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,158 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,159 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 724(Long)
-2019-08-27 22:10:38,161 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
-2019-08-27 22:10:38,161 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,161 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,162 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,162 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 733(Long)
-2019-08-27 22:10:38,164 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
-2019-08-27 22:10:38,165 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,165 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,165 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,166 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 739(Long)
-2019-08-27 22:10:38,172 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
-2019-08-27 22:10:38,173 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,173 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,174 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,174 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 749(Long)
-2019-08-27 22:10:38,176 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
-2019-08-27 22:10:38,177 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,177 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,177 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,178 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 750(Long)
-2019-08-27 22:10:38,181 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 33
-2019-08-27 22:10:38,181 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,181 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,182 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,182 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 784(Long)
-2019-08-27 22:10:38,186 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
-2019-08-27 22:10:38,186 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,186 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,187 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,187 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 813(Long)
-2019-08-27 22:10:38,190 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 22
-2019-08-27 22:10:38,190 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,190 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad] from current transaction
-2019-08-27 22:10:38,191 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
-2019-08-27 22:10:38,191 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 836(Long)
-2019-08-27 22:10:38,194 [http-bio-8081-exec-6] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
-2019-08-27 22:10:38,194 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,194 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,194 [http-bio-8081-exec-6] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@709e48ad]
-2019-08-27 22:10:38,197 [http-bio-8081-exec-6] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json;charset=UTF-8', given [*/*] and supported [application/json;charset=UTF-8]
-2019-08-27 22:10:38,197 [http-bio-8081-exec-6] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing ["category.getDataService({"data":[{"n":"<a href='/products/1.html'>图书、音像、电子书刊</a>","u":"/products/1. (truncated)...]
-2019-08-27 22:10:38,198 [http-bio-8081-exec-6] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
+2019-08-29 23:59:52,203 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953] from current transaction
+2019-08-29 23:59:52,204 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:52,204 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 784(Long)
+2019-08-29 23:59:52,205 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
+2019-08-29 23:59:52,205 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953]
+2019-08-29 23:59:52,206 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953] from current transaction
+2019-08-29 23:59:52,206 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:52,207 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 813(Long)
+2019-08-29 23:59:52,208 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 22
+2019-08-29 23:59:52,209 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953]
+2019-08-29 23:59:52,209 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953] from current transaction
+2019-08-29 23:59:52,210 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:52,210 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 836(Long)
+2019-08-29 23:59:52,211 [http-bio-8081-exec-9] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
+2019-08-29 23:59:52,212 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953]
+2019-08-29 23:59:52,212 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953]
+2019-08-29 23:59:52,212 [http-bio-8081-exec-9] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5f03b953]
+2019-08-29 23:59:52,213 [http-bio-8081-exec-9] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json;charset=UTF-8', given [*/*] and supported [application/json;charset=UTF-8]
+2019-08-29 23:59:52,213 [http-bio-8081-exec-9] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing ["category.getDataService({"data":[{"n":"<a href='/products/1.html'>图书、音像、电子书刊</a>","u":"/products/1. (truncated)...]
+2019-08-29 23:59:52,214 [http-bio-8081-exec-9] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
+2019-08-29 23:59:54,534 [http-bio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] GET "/rest/content/list/89", parameters={}
+2019-08-29 23:59:54,535 [http-bio-8081-exec-1] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[DEBUG] Mapped to public com.taotao.common.pojo.TaotaoResult com.taotao.rest.controller.ContentController.getContentList(long)
+2019-08-29 23:59:54,545 [http-bio-8081-exec-1] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Creating a new SqlSession
+2019-08-29 23:59:54,545 [http-bio-8081-exec-1] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@81f0ffa]
+2019-08-29 23:59:54,546 [http-bio-8081-exec-1] [org.springframework.jdbc.datasource.DataSourceUtils]-[DEBUG] Fetching JDBC Connection from DataSource
+2019-08-29 23:59:54,546 [http-bio-8081-exec-1] [org.mybatis.spring.transaction.SpringManagedTransaction]-[DEBUG] JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5b0bc998] will be managed by Spring
+2019-08-29 23:59:54,546 [http-bio-8081-exec-1] [com.taotao.mapper.ContentMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, category_id, title, sub_title, title_desc, url, pic, pic2, created, updated from tb_content WHERE ( category_id = ? ) 
+2019-08-29 23:59:54,546 [http-bio-8081-exec-1] [com.taotao.mapper.ContentMapper.selectByExample]-[DEBUG] ==> Parameters: 89(Long)
+2019-08-29 23:59:54,549 [http-bio-8081-exec-1] [com.taotao.mapper.ContentMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:54,549 [http-bio-8081-exec-1] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@81f0ffa]
+2019-08-29 23:59:54,549 [http-bio-8081-exec-1] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@81f0ffa]
+2019-08-29 23:59:54,549 [http-bio-8081-exec-1] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@81f0ffa]
+2019-08-29 23:59:54,555 [http-bio-8081-exec-1] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2019-08-29 23:59:54,556 [http-bio-8081-exec-1] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing [com.taotao.common.pojo.TaotaoResult@170ab04]
+2019-08-29 23:59:54,567 [http-bio-8081-exec-1] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
+2019-08-29 23:59:58,339 [http-bio-8081-exec-10] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] GET "/rest/itemcat/list?callback=category.getDataService", parameters={masked}
+2019-08-29 23:59:58,340 [http-bio-8081-exec-10] [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[DEBUG] Mapped to public java.lang.String com.taotao.rest.controller.ItemCatController.getItemCatList(java.lang.String)
+2019-08-29 23:59:58,340 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Creating a new SqlSession
+2019-08-29 23:59:58,340 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Registering transaction synchronization for SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,340 [http-bio-8081-exec-10] [org.springframework.jdbc.datasource.DataSourceUtils]-[DEBUG] Fetching JDBC Connection from DataSource
+2019-08-29 23:59:58,341 [http-bio-8081-exec-10] [org.mybatis.spring.transaction.SpringManagedTransaction]-[DEBUG] JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@5b0bc998] will be managed by Spring
+2019-08-29 23:59:58,341 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,341 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 0(Long)
+2019-08-29 23:59:58,343 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 19
+2019-08-29 23:59:58,343 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,343 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,343 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,344 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 1(Long)
+2019-08-29 23:59:58,345 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
+2019-08-29 23:59:58,346 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,346 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,346 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,347 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 2(Long)
+2019-08-29 23:59:58,350 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,351 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,351 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,351 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,352 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 7(Long)
+2019-08-29 23:59:58,353 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,353 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,353 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,354 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,354 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 11(Long)
+2019-08-29 23:59:58,356 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,356 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,356 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,357 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,359 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 18(Long)
+2019-08-29 23:59:58,360 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,360 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,360 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,361 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,362 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 24(Long)
+2019-08-29 23:59:58,363 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,364 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,364 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,364 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,365 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 30(Long)
+2019-08-29 23:59:58,370 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,370 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,370 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,371 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,371 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 40(Long)
+2019-08-29 23:59:58,373 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,373 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,373 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,374 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,374 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 45(Long)
+2019-08-29 23:59:58,375 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,375 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,376 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,376 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,376 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 51(Long)
+2019-08-29 23:59:58,378 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,378 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,378 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,379 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,379 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 59(Long)
+2019-08-29 23:59:58,381 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,381 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,382 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,383 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,383 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 65(Long)
+2019-08-29 23:59:58,384 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,385 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,385 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,385 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,386 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 70(Long)
+2019-08-29 23:59:58,387 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,387 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,387 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,387 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,387 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 74(Long)
+2019-08-29 23:59:58,388 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,388 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,389 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,389 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,389 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 75(Long)
+2019-08-29 23:59:58,391 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 13
+2019-08-29 23:59:58,391 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,391 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,391 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,392 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 89(Long)
+2019-08-29 23:59:58,393 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 18
+2019-08-29 23:59:58,393 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,394 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,394 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,394 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 108(Long)
+2019-08-29 23:59:58,396 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 17
+2019-08-29 23:59:58,396 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,396 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,397 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,397 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 126(Long)
+2019-08-29 23:59:58,399 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 15
+2019-08-29 23:59:58,399 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,400 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,401 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,401 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 142(Long)
+2019-08-29 23:59:58,403 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 18
+2019-08-29 23:59:58,403 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,403 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,404 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,404 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 161(Long)
+2019-08-29 23:59:58,405 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,406 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,406 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,406 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,406 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 162(Long)
+2019-08-29 23:59:58,408 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,408 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,408 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,408 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,409 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 171(Long)
+2019-08-29 23:59:58,410 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 14
+2019-08-29 23:59:58,410 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,411 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,411 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,411 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 186(Long)
+2019-08-29 23:59:58,412 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 15
+2019-08-29 23:59:58,413 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,413 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,413 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,414 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 202(Long)
+2019-08-29 23:59:58,415 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,415 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,415 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,416 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,416 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 210(Long)
+2019-08-29 23:59:58,418 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 18
+2019-08-29 23:59:58,418 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,418 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,419 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,419 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 229(Long)
+2019-08-29 23:59:58,420 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 14
+2019-08-29 23:59:58,420 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,420 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,421 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,421 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 244(Long)
+2019-08-29 23:59:58,422 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,422 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,422 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,423 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,423 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 249(Long)
+2019-08-29 23:59:58,424 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,424 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,424 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,425 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,425 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 250(Long)
+2019-08-29 23:59:58,426 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,427 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,427 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,427 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,428 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 256(Long)
+2019-08-29 23:59:58,429 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,430 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,430 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,430 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,431 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 264(Long)
+2019-08-29 23:59:58,432 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,432 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,432 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,432 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,433 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 269(Long)
+2019-08-29 23:59:58,434 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,434 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,434 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,435 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,435 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 274(Long)
+2019-08-29 23:59:58,436 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,436 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,440 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,441 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,441 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 281(Long)
+2019-08-29 23:59:58,442 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,443 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,443 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,443 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,444 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 290(Long)
+2019-08-29 23:59:58,445 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 1
+2019-08-29 23:59:58,445 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,445 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,446 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,446 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 291(Long)
+2019-08-29 23:59:58,447 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,447 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,447 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,448 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,448 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 296(Long)
+2019-08-29 23:59:58,450 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
+2019-08-29 23:59:58,450 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,450 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,450 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,451 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 297(Long)
+2019-08-29 23:59:58,452 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
+2019-08-29 23:59:58,455 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,455 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,456 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,456 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 300(Long)
+2019-08-29 23:59:58,458 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,458 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,458 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,459 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,459 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 309(Long)
+2019-08-29 23:59:58,460 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,460 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,460 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,461 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,461 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 314(Long)
+2019-08-29 23:59:58,462 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,463 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,463 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,463 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,463 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 322(Long)
+2019-08-29 23:59:58,465 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,466 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,466 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,467 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,467 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 331(Long)
+2019-08-29 23:59:58,470 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,470 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,470 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,471 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,471 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 341(Long)
+2019-08-29 23:59:58,474 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,475 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,475 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,475 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,489 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 348(Long)
+2019-08-29 23:59:58,491 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,491 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,491 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,492 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,492 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 358(Long)
+2019-08-29 23:59:58,494 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 15
+2019-08-29 23:59:58,494 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,494 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,494 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,495 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 374(Long)
+2019-08-29 23:59:58,496 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,496 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,496 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,497 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,497 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 378(Long)
+2019-08-29 23:59:58,498 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,499 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,499 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,500 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,500 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 379(Long)
+2019-08-29 23:59:58,503 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,503 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,503 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,504 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,505 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 386(Long)
+2019-08-29 23:59:58,507 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
+2019-08-29 23:59:58,507 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,508 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,508 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,509 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 397(Long)
+2019-08-29 23:59:58,510 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,510 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,510 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,511 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,511 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 405(Long)
+2019-08-29 23:59:58,512 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,512 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,513 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,513 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,513 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 412(Long)
+2019-08-29 23:59:58,514 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,515 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,515 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,515 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,516 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 420(Long)
+2019-08-29 23:59:58,518 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,520 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,520 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,520 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,557 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 425(Long)
+2019-08-29 23:59:58,558 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
+2019-08-29 23:59:58,558 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,558 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,559 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,559 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 438(Long)
+2019-08-29 23:59:58,560 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,561 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,561 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,561 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,562 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 439(Long)
+2019-08-29 23:59:58,564 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 16
+2019-08-29 23:59:58,564 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,564 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,564 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,565 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 456(Long)
+2019-08-29 23:59:58,570 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
+2019-08-29 23:59:58,571 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,571 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,571 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,572 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 467(Long)
+2019-08-29 23:59:58,573 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,573 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,574 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,574 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,574 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 474(Long)
+2019-08-29 23:59:58,577 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
+2019-08-29 23:59:58,577 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,577 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,578 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,580 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 486(Long)
+2019-08-29 23:59:58,582 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,583 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,615 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,616 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,617 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 495(Long)
+2019-08-29 23:59:58,619 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
+2019-08-29 23:59:58,619 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,620 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,620 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,620 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 496(Long)
+2019-08-29 23:59:58,622 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,622 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,622 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,623 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,624 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 503(Long)
+2019-08-29 23:59:58,626 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,626 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,626 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,627 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,627 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 509(Long)
+2019-08-29 23:59:58,628 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
+2019-08-29 23:59:58,628 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,629 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,629 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,629 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 512(Long)
+2019-08-29 23:59:58,630 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,631 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,631 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,631 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,635 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 516(Long)
+2019-08-29 23:59:58,636 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,636 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,636 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,637 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,637 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 520(Long)
+2019-08-29 23:59:58,638 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,638 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,638 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,639 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,639 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 525(Long)
+2019-08-29 23:59:58,640 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,640 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,640 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,641 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,641 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 529(Long)
+2019-08-29 23:59:58,642 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,642 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,642 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,643 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,643 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 534(Long)
+2019-08-29 23:59:58,644 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,644 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,644 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,645 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,647 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 539(Long)
+2019-08-29 23:59:58,648 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,648 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,648 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,649 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,649 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 543(Long)
+2019-08-29 23:59:58,651 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
+2019-08-29 23:59:58,651 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,651 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,652 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,652 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 546(Long)
+2019-08-29 23:59:58,653 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
+2019-08-29 23:59:58,653 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,653 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,654 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,654 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 558(Long)
+2019-08-29 23:59:58,655 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 3
+2019-08-29 23:59:58,655 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,655 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,656 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,656 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 559(Long)
+2019-08-29 23:59:58,657 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 2
+2019-08-29 23:59:58,657 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,657 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,658 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,658 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 562(Long)
+2019-08-29 23:59:58,659 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,659 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,661 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,661 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,662 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 567(Long)
+2019-08-29 23:59:58,663 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
+2019-08-29 23:59:58,663 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,663 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,664 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,680 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 580(Long)
+2019-08-29 23:59:58,683 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,683 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,683 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,684 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,685 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 581(Long)
+2019-08-29 23:59:58,686 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,686 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,686 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,687 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,687 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 591(Long)
+2019-08-29 23:59:58,688 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 12
+2019-08-29 23:59:58,688 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,688 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,689 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,689 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 604(Long)
+2019-08-29 23:59:58,690 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,691 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,691 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,691 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,692 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 614(Long)
+2019-08-29 23:59:58,693 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
+2019-08-29 23:59:58,693 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,693 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,694 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,694 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 625(Long)
+2019-08-29 23:59:58,695 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,695 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,695 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,696 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,696 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 633(Long)
+2019-08-29 23:59:58,697 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,697 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,697 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,698 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,698 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 634(Long)
+2019-08-29 23:59:58,699 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 13
+2019-08-29 23:59:58,699 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,700 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,700 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,701 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 648(Long)
+2019-08-29 23:59:58,704 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 11
+2019-08-29 23:59:58,704 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,705 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,705 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,705 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 660(Long)
+2019-08-29 23:59:58,706 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,707 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,707 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,707 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,707 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 667(Long)
+2019-08-29 23:59:58,708 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 15
+2019-08-29 23:59:58,709 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,709 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,710 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,710 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 683(Long)
+2019-08-29 23:59:58,712 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,712 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,712 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,713 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,713 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 691(Long)
+2019-08-29 23:59:58,715 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 7
+2019-08-29 23:59:58,715 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,715 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,717 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,718 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 699(Long)
+2019-08-29 23:59:58,719 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,719 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,719 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,720 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,720 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 700(Long)
+2019-08-29 23:59:58,722 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 10
+2019-08-29 23:59:58,723 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,724 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,724 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,725 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 711(Long)
+2019-08-29 23:59:58,726 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 6
+2019-08-29 23:59:58,726 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,727 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,727 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,728 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 718(Long)
+2019-08-29 23:59:58,729 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,729 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,729 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,730 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,730 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 724(Long)
+2019-08-29 23:59:58,731 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 8
+2019-08-29 23:59:58,731 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,731 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,732 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,733 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 733(Long)
+2019-08-29 23:59:58,734 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 5
+2019-08-29 23:59:58,735 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,735 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,735 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,735 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 739(Long)
+2019-08-29 23:59:58,737 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 9
+2019-08-29 23:59:58,737 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,737 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,738 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,738 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 749(Long)
+2019-08-29 23:59:58,739 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 4
+2019-08-29 23:59:58,739 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,739 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,740 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,740 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 750(Long)
+2019-08-29 23:59:58,742 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 33
+2019-08-29 23:59:58,742 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,742 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,742 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,746 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 784(Long)
+2019-08-29 23:59:58,747 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
+2019-08-29 23:59:58,747 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,747 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,748 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,748 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 813(Long)
+2019-08-29 23:59:58,750 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 22
+2019-08-29 23:59:58,751 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,751 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Fetched SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7] from current transaction
+2019-08-29 23:59:58,751 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==>  Preparing: select id, parent_id, name, status, sort_order, is_parent, created, updated from tb_item_cat WHERE ( parent_id = ? ) 
+2019-08-29 23:59:58,752 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] ==> Parameters: 836(Long)
+2019-08-29 23:59:58,753 [http-bio-8081-exec-10] [com.taotao.mapper.ItemCatMapper.selectByExample]-[DEBUG] <==      Total: 28
+2019-08-29 23:59:58,753 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,753 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization deregistering SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,753 [http-bio-8081-exec-10] [org.mybatis.spring.SqlSessionUtils]-[DEBUG] Transaction synchronization closing SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@5a90ab7]
+2019-08-29 23:59:58,755 [http-bio-8081-exec-10] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json;charset=UTF-8', given [*/*] and supported [application/json;charset=UTF-8]
+2019-08-29 23:59:58,755 [http-bio-8081-exec-10] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing ["category.getDataService({"data":[{"n":"<a href='/products/1.html'>图书、音像、电子书刊</a>","u":"/products/1. (truncated)...]
+2019-08-29 23:59:58,759 [http-bio-8081-exec-10] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK

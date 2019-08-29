@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import com.taotao.common.pojo.TaotaoResult;
 import com.taotao.common.pojo.TreeNode;
 import com.taotao.pojo.ContentCategory;
 import com.taotao.service.ContentCategoryService;
@@ -31,5 +32,11 @@ public class ContentCategoryController {
 		List<TreeNode> list = contentCategoryService.getCategoryList(parentId);
 		return list;
 		
+	}
+	@RequestMapping("/create")
+	@ResponseBody
+	public TaotaoResult createContentCategory(Long parentId,String name) {
+		TaotaoResult result = contentCategoryService.insertContentCategory(parentId, name);
+		return result; 
 	}
 }
