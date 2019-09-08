@@ -1,12 +1,11 @@
 package com.taotao.portal.service.impl;
 
 import java.util.ArrayList;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import org.apache.http.impl.client.HttpClients;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
@@ -33,12 +32,12 @@ public class ContentServiceImpl implements ContentService {
 	public String getContentList() {
 		//调用服务层的服务
 		String result = HttpClientUtil.doGet(REST_BASE_URL+REST_INDEX_AD_URL);
-		System.out.println(result+"----------------------");
+//		System.out.println(result+"----------------------");
 //		将字符串转换成TaoTaoResult
 		try {
 			TaotaoResult taotaoResult = TaotaoResult.formatToList(result, Content.class);
 //			获取内容列表
-			System.out.println(taotaoResult.toString()+"++++++++++++");
+//			System.out.println(taotaoResult.toString()+"++++++++++++");
 			List<Content> list=(List<Content>) taotaoResult.getData();
 			List<Map> resultList=new ArrayList<>();
 //			创建一个符合jsp页的pojo列表

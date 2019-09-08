@@ -22,13 +22,13 @@ import com.taotao.rest.service.ContentService;
 @RequestMapping("/content")
 public class ContentController {
 	@Autowired
-	private ContentService contennService;
+	private ContentService contentService;
 	
 	@RequestMapping("/list/{contentCategoryId}")
 	@ResponseBody
 	public TaotaoResult getContentList(@PathVariable long contentCategoryId){
 		try {
-			List<Content> list = contennService.getContentList(contentCategoryId);
+			List<Content> list = contentService.getContentList(contentCategoryId);
 			return TaotaoResult.ok(list);
 		} catch (Exception e) {
 			e.printStackTrace();
