@@ -1,0 +1,409 @@
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <str name="item_sell_point">[[0xe9][0xa2][0x86][0xe5][0x88][0xb8][0xe4][0xb8][0x8b][0xe5][0x8d][0x95][0xe6][0x9b][0xb4][0xe4][0xbc][0x98][0xe6][0x83][0xa0]][0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe6][0x89][0x8b][0xe6][0x9c][0xba][0xe7][0x94][0xb7] [0xe8][0x80][0x81][0xe4][0xba][0xba][0xe6][0x89][0x8b][0xe6][0x9c][0xba][0xe6][0x89][0x8b][0xe5][0x86][0x99][0xe5][0xa4][0xa7][0xe5][0xad][0x97][0xe4][0xbd][0x93][0xe5][0xa4][0xa7][0xe6][0x8c][0x89][0xe9][0x94][0xae] [0xe8][0x80][0x81][0xe4][0xba][0xba][0xe6][0x9c][0xba][0xe7][0x9b][0xb4][0xe6][0x9d][0xbf][0xe6][0x89][0x8b][0xe6][0x9c][0xba] [0xe6][0x9d][0xa5][0xe7][0x94][0xb5][0xe5][0xbd][0x92][0xe5][0xb1][0x9e] [0xe8][0xb6][0x85][0xe9][0x95][0xbf][0xe5][0xbe][0x85][0xe6][0x9c][0xba]</str>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <long name="item_price">17800</long>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <str name="item_image">http://image.taotao.com/jd/9e4dd93d4276440bac8d070cb4943881.jpg</str>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <str name="item_category_name">[0xe6][0x89][0x8b][0xe6][0x9c][0xba]</str>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <long name="_version_">1644220165116657664</long></doc>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "</result>[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "<lst name="highlighting">[\n]"
+2019-09-17 21:47:10,154 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058548950">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF319[0xe8][0x8a][0x92][0xe6][0x9e][0x9c][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xb2][0x89][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1091778312">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xa4][0xa9][0xe6][0x97][0xb6][0xe8][0xbe][0xbe] T2388 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0x87][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1089857105">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,155 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0](BIFER) BF609 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba][0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,158 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,158 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,159 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123908076">[\n]"
+2019-09-17 21:47:10,159 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,159 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d]"
+2019-09-17 21:47:10,161 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "[0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF319[0xe8][0x8a][0x92][0xe6][0x9e][0x9c][0xe8][0x80][0x81][0xe4][0xba][0xba]&[\r][\n]"
+2019-09-17 21:47:10,161 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "2000[\r][\n]"
+2019-09-17 21:47:10,161 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0x99][0xbd] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,161 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,161 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058559986">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x87][0xe5][0x88][0xa9][0xe8][0xbe][0xbe]G800 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1065330931">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe6][0x9c][0x97][0xe6][0xa0][0xbc]iph-100&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0x99][0xbd]</str>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1065330933">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe6][0x9c][0x97][0xe6][0xa0][0xbc]iph-100&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2]</str>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1067558177">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,162 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x87][0xe5][0x88][0xa9][0xe8][0xbe][0xbe]G800 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1121155394">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0x8f][0x8b][0xe4][0xbf][0xa1][0xe8][0xbe][0xbe]U988 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0xa5][0xb3][0xe6][0x80][0xa7]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0x99][0xbd][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1036425401">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x89][0xe6][0x99][0xae]GN200 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0xba][0xa2]</str>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1036425403">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,197 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x89][0xe6][0x99][0xae]GN200 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91]</str>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1127587747">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x89][0xe7][0x9b][0x9f] [0xe5][0x90][0x8d][0xe5][0x8d][0x9a]D68 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058531438">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF520 BF318 [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xb2][0x89] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058531439">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF520 BF318 [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0x99][0xbd] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058623737">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,198 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe6][0x97][0xb6][0xe5][0xb0][0x9a][0xe4][0xbd][0xb3] SK600C[0xe7][0xbf][0xbb][0xe7][0x9b][0x96]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0x87][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1089822534">[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x94][0x90][0xe9][0x93][0x82]X3 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0x94][0xb5][0xe8][0xa7][0x86][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91] [0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,199 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1304890">[\n]"
+2019-09-17 21:47:10,202 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,202 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] (E320) [0xe7][0x83][0x88][0xe7][0x84][0xb0][0xe7][0xba][0xa2] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-17 21:47:10,202 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,202 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1304902">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] (E320) [0xe5][0xa2][0xa8][0xe7][0x8e][0x89][0xe9][0xbb][0x91] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1072445909">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0x8d][0x93][0xe6][0xaf][0x94]A800 [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0x8e][0xab][0xe7][0x91][0xb0][0xe9][0x87][0x91]</str>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1097232753">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) YP400 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0x93][0x81][0xe7][0x81][0xb0]</str>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058614725">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,203 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0](BIFER) BF289 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1058614727">[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0](BIFER) BF289 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1125973259">[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,205 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xbf][0x83][0xe8][0xbf][0xaa](XIND) X6 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe6][0x99][0xba][0xe8][0x83][0xbd]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1126538962"/>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1074458225">[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]B25-D [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0xba][0xa2]</str>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1074458228">[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,206 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]B25-D [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xa6][0x99][0xe6][0xa7][0x9f][0xe9][0x87][0x91]</str>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123613563">[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xbf][0x83][0xe8][0xbf][0xaa](XIND) X1 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]3G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="847276">[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (X2560) [0xe5][0x96][0x9c][0xe5][0xba][0x86][0xe7][0xba][0xa2] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,212 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="847278">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (X2560) [0xe7][0xa1][0xac][0xe6][0x9c][0x97][0xe9][0xbb][0x91] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1086096929">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) Y900 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91]</str>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1086096930">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,213 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) Y900 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0x99][0xbd]</str>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1100734183">[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xa4][0xa7][0xe6][0x98][0xbe][0xef][0xbc][0x88]DaXian[0xef][0xbc][0x89]DX886 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0x99][0xbd][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1100734184">[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,214 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xa4][0xa7][0xe6][0x98][0xbe][0xef][0xbc][0x88]DaXian[0xef][0xbc][0x89]DX886 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123899753">[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xbf][0x83][0xe8][0xbf][0xaa](XIND) [0xe5][0xb0][0x8f][0xe6][0x98][0x93] X1 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]3G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1144549888">[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,215 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) YP610 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1144627862">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) YP610 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1144823623">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xaa][0x89][0xe5][0x93][0x81](YEPEN) YP610 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0x99][0xbd][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1152435444">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,221 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1152435445">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0x87][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1152435446">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1152435447">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,222 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe8][0x93][0x9d][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1039296">[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0x90][0x88][0xe7][0xba][0xa6][0xe6][0x83][0xa0]&lt;em style="color:red"&gt;[0xe6][0x9c][0xba]&lt;/em&gt;[0xe6][0xb5][0x8b][0xe8][0xaf][0x95]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;[0xef][0xbc][0x88][0xe8][0xaf][0xb7][0xe5][0x8b][0xbf][0xe4][0xb8][0x8b][0xe5][0x8d][0x95][0xef][0xbc][0x89]</str>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="967021">[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>TCL [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (i310) [0xe6][0x9a][0x97][0xe5][0xa4][0x9c][0xe9][0xbb][0x91] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;</str>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,223 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,261 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1027857">[\n]"
+2019-09-17 21:47:10,261 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,261 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>TCL [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (i310) [0xe7][0xba][0xaf][0xe5][0x87][0x80][0xe7][0x99][0xbd] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;</str>[\n]"
+2019-09-17 21:47:10,262 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,262 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,262 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1252505">[\n]"
+2019-09-17 21:47:10,262 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,262 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <st"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "r>E[0xe4][0xba][0xba]E[0xe6][0x9c][0xac] M1 [0xe6][0x98][0x9f][0xe7][0xa9][0xba][0xe9][0xbb][0x91] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][\r][\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "ba6[\r][\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "[0x94][0xe9][0x80][0x9a]4G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;</str>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1124157468">[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe6][0xac][0xa7][0xe5][0xa5][0x87] [0xe5][0xa5][0x87][0xe4][0xba][0x91]KV608 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123232771">[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x88][0xb1][0xe6][0x84][0x8f][0xe9][0x80][0x9a](aiyitong) AY688 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0x84][0xbf][0xe7][0xab][0xa5]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xb2][0x89][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,264 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123688863">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x88][0xb1][0xe6][0x84][0x8f][0xe9][0x80][0x9a](aiyitong) AY688 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0x84][0xbf][0xe7][0xab][0xa5]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe8][0x93][0x9d][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1123688864">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x88][0xb1][0xe6][0x84][0x8f][0xe9][0x80][0x9a](aiyitong) AY688 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe5][0x84][0xbf][0xe7][0xab][0xa5]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xbb][0xbf][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1091756583">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF619 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0x87][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,265 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1062831420">[\n]"
+2019-09-17 21:47:10,266 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0x8d][0x8e][0xe7][0xba][0xb3][0xe5][0xa8][0x81][0xe7][0xa7][0x80]K363 [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;[0xe5][0xa5][0xb3] [0xe8][0x80][0x81][0xe4][0xba][0xba][0xe6][0x9c][0xba][0xe5][0xa5][0xb3] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe4][0xb8][0xad][0xe5][0x9b][0xbd][0xe7][0xba][0xa2]</str>[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1023752">[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,267 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (W8578) [0xe9][0xbb][0x91][0xe8][0x89][0xb2] [0xe8][0x81][0x94][0xe9][0x80][0x9a]3G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1133222363">[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1133222364">[\n]"
+2019-09-17 21:47:10,269 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe8][0x93][0x9d][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1133222365">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1133222366">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xb2][0x89][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1145177">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe4][0xb8][0x89][0xe6][0x98][0x9f] G3586V [0xe7][0x99][0xbd][0xe8][0x89][0xb2] [0xe8][0x81][0x94][0xe9][0x80][0x9a]4G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;</str>[\n]"
+2019-09-17 21:47:10,270 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1100734182">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe5][0xa4][0xa7][0xe6][0x98][0xbe][0xef][0xbc][0x88]DaXian[0xef][0xbc][0x89]DX886 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe6][0xb7][0xb1][0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1152435448">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe5][0x92][0x96][0xe5][0x95][0xa1][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  <lst name="1124158129">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    <arr name="item_title">[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "      <str>[0xe6][0xac][0xa7][0xe5][0xa5][0x87] [0xe5][0xa5][0x87][0xe4][0xba][0x91]KV608 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe5][0x92][0x96][0xe5][0x95][0xa1][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "    </arr>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "  </lst>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "</lst>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "</response>[\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "[\r][\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "0[\r][\n]"
+2019-09-17 21:47:10,271 [http-bio-8083-exec-3] [org.apache.http.wire]-[DEBUG] http-outgoing-1 << "[\r][\n]"
+2019-09-17 21:47:10,272 [http-bio-8083-exec-3] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 1][route: {}->http://192.168.10.40:8080][state: class org.apache.solr.client.solrj.impl.HttpSolrClient] can be kept alive indefinitely
+2019-09-17 21:47:10,272 [http-bio-8083-exec-3] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-1: set socket timeout to 0
+2019-09-17 21:47:10,273 [http-bio-8083-exec-3] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 1][route: {}->http://192.168.10.40:8080][state: class org.apache.solr.client.solrj.impl.HttpSolrClient][total kept alive: 1; route allocated: 1 of 10000; total allocated: 1 of 10000]
+2019-09-17 21:47:10,304 [http-bio-8083-exec-3] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2019-09-17 21:47:10,304 [http-bio-8083-exec-3] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing [com.taotao.common.pojo.TaotaoResult@cd6b4eb]
+2019-09-17 21:47:10,328 [http-bio-8083-exec-3] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
+2019-09-17 21:47:46,214 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:47:46,214 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:48:36,214 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:48:36,214 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:48:36,214 [Connection evictor] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-1: Close connection
+2019-09-17 21:49:26,226 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:49:26,226 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:50:16,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:50:16,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:51:06,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:51:06,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:51:56,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:51:56,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:52:46,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:52:46,227 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:53:36,233 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:53:36,238 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:54:26,239 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:54:26,239 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:55:16,239 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:55:16,239 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:56:06,240 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:56:06,240 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:56:56,241 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:56:56,241 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:57:46,242 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:57:46,242 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:58:36,242 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:58:36,242 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 21:59:26,243 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 21:59:26,243 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:00:16,244 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:00:16,244 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:01:06,244 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:01:06,244 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:01:56,245 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:01:56,245 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:02:46,246 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:02:46,246 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:03:36,247 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:03:36,247 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:04:26,247 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:04:26,247 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:05:16,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:05:16,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:06:06,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:06:06,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:06:56,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:06:56,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:07:46,249 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:07:46,249 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:08:36,249 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:08:36,249 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:09:26,250 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:09:26,250 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:10:16,250 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:10:16,250 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:11:06,251 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:11:06,252 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:11:56,252 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:11:56,253 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:12:46,253 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:12:46,253 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:13:36,253 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:13:36,253 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:14:26,255 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:14:26,255 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:15:16,256 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:15:16,256 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:16:06,257 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:16:06,257 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:16:56,257 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:16:56,257 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:17:46,258 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:17:46,258 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:18:36,258 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:18:36,258 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:19:26,259 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:19:26,259 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:20:16,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:20:16,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:21:06,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:21:06,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:21:56,261 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:21:56,261 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:22:46,261 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:22:46,262 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-17 22:23:36,262 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-17 22:23:36,262 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
