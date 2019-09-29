@@ -1,532 +1,119 @@
-2019-09-19 19:47:21,474 [http-bio-8083-exec-3] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
-2019-09-19 19:47:30,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:47:30,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:48:20,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:48:20,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:48:20,638 [Connection evictor] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-1: Close connection
-2019-09-19 19:49:10,639 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:49:10,639 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:50:00,640 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:50:00,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:50:50,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:50:50,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:51:40,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:51:40,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:52:30,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:52:30,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:53:20,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:53:20,642 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:54:10,644 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:54:10,644 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:55:00,645 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:55:00,645 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:55:50,650 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:55:50,650 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:56:40,651 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:56:40,651 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:57:30,652 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:57:30,652 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:58:20,653 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:58:20,653 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 19:59:10,653 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 19:59:10,653 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:00:00,654 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:00:00,654 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:00:50,654 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:00:50,654 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:01:40,655 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:01:40,655 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:02:30,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:02:30,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:03:20,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:03:20,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:04:10,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:04:10,656 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:05:00,657 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:05:00,657 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:05:50,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:05:50,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:06:40,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:06:40,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:07:30,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:07:30,658 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:08:20,675 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:08:20,675 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:09:10,676 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:09:10,676 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:10:00,695 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:10:00,696 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:10:50,696 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:10:50,696 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:11:40,705 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:11:40,706 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:12:30,707 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:12:30,707 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:13:20,717 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:13:20,717 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:14:10,770 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:14:10,770 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:15:00,799 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:15:00,800 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:15:50,818 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:15:50,818 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:16:40,818 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:16:40,818 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:17:30,827 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:17:30,828 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:18:20,830 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:18:20,831 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:19:10,831 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:19:10,831 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:20:00,839 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:20:00,839 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:20:50,840 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:20:50,840 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:21:40,854 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:21:40,854 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:22:30,855 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:22:30,855 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:23:20,963 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:23:20,963 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:24:10,966 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:24:10,966 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:25:00,971 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:25:00,971 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:25:50,990 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:25:50,990 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:26:40,991 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:26:40,992 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:27:30,992 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:27:30,992 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:28:21,024 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:28:21,025 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:29:11,026 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:29:11,026 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:30:01,029 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:30:01,030 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:30:51,032 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:30:51,032 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:31:41,058 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:31:41,059 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:32:31,062 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:32:31,062 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:33:21,093 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:33:21,094 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:34:11,102 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:34:11,102 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:35:01,107 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:35:01,108 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:35:51,111 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:35:51,111 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:36:41,112 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:36:41,112 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:37:31,114 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:37:31,114 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:38:21,157 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:38:21,157 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:39:11,165 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:39:11,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:40:01,175 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:40:01,175 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:40:51,182 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:40:51,182 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:41:41,186 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:41:41,186 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:42:31,194 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:42:31,194 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:43:21,204 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:43:21,204 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:44:11,244 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:44:11,245 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:45:01,246 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:45:01,248 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:45:51,259 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:45:51,259 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:46:41,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:46:41,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:47:31,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:47:31,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:48:21,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:48:21,260 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:49:11,268 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:49:11,268 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:50:01,269 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:50:01,269 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:50:51,270 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:50:51,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:51:41,272 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:51:41,272 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:52:31,361 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:52:31,361 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:53:21,361 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:53:21,361 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:54:11,374 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:54:11,374 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:55:01,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:55:01,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:55:51,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:55:51,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:56:41,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:56:41,375 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:57:31,376 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:57:31,376 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:58:21,386 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:58:21,386 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 20:59:11,389 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 20:59:11,389 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:00:01,389 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:00:01,389 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:00:51,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:00:51,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:01:41,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:01:41,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:02:31,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:02:31,390 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:03:21,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:03:21,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:04:11,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:04:11,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:05:01,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:05:01,391 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:05:51,392 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:05:51,392 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:06:41,392 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:06:41,392 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:07:31,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:07:31,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:08:21,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:08:21,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:09:11,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:09:11,393 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:10:01,394 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:10:01,394 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:10:51,395 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:10:51,395 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:11:41,395 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:11:41,395 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:12:31,396 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:12:31,396 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:13:21,396 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:13:21,396 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:14:11,503 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:14:11,503 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:15:01,504 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:15:01,504 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:15:51,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:15:51,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:16:41,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:16:41,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:17:31,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:17:31,505 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:18:21,506 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:18:21,506 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:19:11,506 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:19:11,506 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:20:01,527 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:20:01,529 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:20:51,530 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:20:51,530 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:21:41,531 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:21:41,531 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:22:31,542 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:22:31,542 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:23:21,543 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:23:21,543 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:24:11,544 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:24:11,569 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:25:01,569 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:25:01,569 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:25:51,570 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:25:51,570 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:26:41,570 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:26:41,570 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:27:31,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:27:31,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:28:21,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:28:21,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:29:11,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:29:11,571 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:30:01,572 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:30:01,572 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:30:51,572 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:30:51,681 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:31:41,682 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:31:41,682 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:32:31,683 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:32:31,683 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:33:21,683 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:33:21,683 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:34:11,685 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:34:11,686 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:35:01,699 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:35:01,699 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:35:51,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:35:51,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:36:41,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:36:41,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:37:31,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:37:31,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:38:21,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:38:21,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:39:11,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:39:11,700 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:40:01,701 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:40:01,701 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:40:51,702 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:40:51,811 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:41:41,823 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:41:41,823 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:42:31,823 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:42:31,823 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:43:21,824 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:43:21,824 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:44:11,824 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:44:11,824 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:45:01,825 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:45:01,930 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:45:51,931 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:45:51,931 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:46:41,931 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:46:41,931 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:47:31,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:47:31,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:48:21,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:48:21,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:49:11,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:49:11,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:50:01,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:50:01,932 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:50:51,933 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:50:51,933 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:51:41,952 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:51:41,952 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:52:31,953 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:52:31,953 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:53:21,954 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:53:21,954 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:54:11,955 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:54:11,955 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:55:01,955 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:55:01,955 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:55:51,956 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:55:52,062 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:56:42,063 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:56:42,063 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:57:32,064 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:57:32,064 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:58:22,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:58:22,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 21:59:12,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 21:59:12,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:00:02,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:00:02,166 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:00:52,167 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:00:52,167 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:01:42,167 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:01:42,167 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:02:32,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:02:32,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:03:22,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:03:22,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:04:12,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:04:12,174 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:05:02,187 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:05:02,187 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:05:52,187 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:05:52,187 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:06:42,188 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:06:42,188 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:07:32,189 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:07:32,189 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:08:22,296 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:08:22,296 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:09:12,297 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:09:12,297 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:10:02,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:10:02,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:10:52,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:10:52,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:11:42,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:11:42,298 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:12:32,299 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:12:32,299 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:13:22,300 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:13:22,300 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:14:12,300 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:14:12,300 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:15:02,301 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:15:02,301 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:15:52,302 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:15:52,302 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:16:42,302 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:16:42,302 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:17:32,303 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:17:32,303 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:18:22,317 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:18:22,317 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:19:12,318 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:19:12,318 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:20:02,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:20:02,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:20:52,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:20:52,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:21:42,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:21:42,319 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:22:32,320 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:22:32,424 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:23:22,424 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:23:22,424 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:24:12,425 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:24:12,425 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:25:02,448 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:25:02,448 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:25:52,448 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:25:52,448 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:26:42,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:26:42,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:27:32,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:27:32,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:28:22,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:28:22,449 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:29:12,452 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:29:12,453 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:30:02,454 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:30:02,454 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:30:52,454 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:30:52,454 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:31:42,455 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:31:42,455 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:32:32,456 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:32:32,456 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:33:22,456 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:33:22,456 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:34:12,457 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:34:12,457 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:35:02,457 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:35:02,457 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:35:52,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:35:52,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:36:42,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:36:42,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:37:32,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:37:32,458 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:38:22,459 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:38:22,459 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:39:12,460 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:39:12,460 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:40:02,460 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:40:02,568 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:40:52,568 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:40:52,568 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:41:42,569 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:41:42,583 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:42:32,584 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:42:32,584 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:43:22,584 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:43:22,584 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:44:12,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:44:12,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:45:02,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:45:02,585 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:45:52,586 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:45:52,586 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:46:42,587 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:46:42,587 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:47:32,588 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:47:32,588 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:48:22,597 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:48:22,597 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:49:12,597 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:49:12,597 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:50:02,598 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:50:02,598 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:50:52,598 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:50:52,598 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:51:42,599 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:51:42,599 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:52:32,600 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:52:32,600 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:53:22,600 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:53:22,601 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:54:12,602 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:54:12,602 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:55:02,602 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:55:02,602 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:55:52,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:55:52,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:56:42,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:56:42,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:57:32,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:57:32,603 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:58:22,604 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:58:22,604 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 22:59:12,604 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 22:59:12,604 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:00:02,607 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:00:02,607 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:00:52,608 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:00:52,608 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:01:42,608 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:01:42,608 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:02:32,610 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:02:32,610 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:03:22,611 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:03:22,611 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:04:12,612 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:04:12,612 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:05:02,612 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:05:02,612 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:05:52,613 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:05:52,613 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:06:42,613 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:06:42,613 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:07:32,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:07:32,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:08:22,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:08:22,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:09:12,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:09:12,617 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:10:02,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:10:02,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:10:52,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:10:52,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:11:42,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:11:42,618 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:12:32,620 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:12:32,620 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:13:22,626 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:13:22,626 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:14:12,626 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:14:12,626 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:15:02,627 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:15:02,627 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:15:52,627 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:15:52,627 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:16:42,628 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:16:42,628 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:17:32,631 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:17:32,631 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:18:22,631 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:18:22,631 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:19:12,632 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:19:12,632 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:20:02,633 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:20:02,633 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:20:52,737 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:20:52,737 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:21:42,740 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:21:42,740 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:22:32,741 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:22:32,741 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:23:22,744 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:23:22,744 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:24:12,744 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:24:12,744 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:25:02,745 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:25:02,746 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:25:52,746 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:25:52,746 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:26:42,747 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:26:42,747 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
-2019-09-19 23:27:32,748 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
-2019-09-19 23:27:32,748 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:30:44,001 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1091756583">[\n]"
+2019-09-29 11:30:44,001 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,001 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe8][0xb4][0x9d][0xe5][0xb0][0x94][0xe4][0xb8][0xb0]BF619 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G[0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0x87][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1062831420">[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe5][0x8d][0x8e][0xe7][0xba][0xb3][0xe5][0xa8][0x81][0xe7][0xa7][0x80]K363 [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;[0xe5][0xa5][0xb3] [0xe8][0x80][0x81][0xe4][0xba][0xba][0xe6][0x9c][0xba][0xe5][0xa5][0xb3] [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8][0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe4][0xb8][0xad][0xe5][0x9b][0xbd][0xe7][0xba][0xa2]</str>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1023752">[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe9][0xa3][0x9e][0xe5][0x88][0xa9][0xe6][0xb5][0xa6] [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; (W8578) [0xe9][0xbb][0x91][0xe8][0x89][0xb2] [0xe8][0x81][0x94][0xe9][0x80][0x9a]3G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85]</str>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,002 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1133222363">[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1133222364">[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe8][0x93][0x9d][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,003 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1133222365">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe9][0xbb][0x91][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1133222366">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe7][0x99][0xbe][0xe5][0x90][0x88] C20 CDMA[0xe7][0x94][0xb5][0xe4][0xbf][0xa1][0xe7][0x89][0x88] [0xe8][0x80][0x81][0xe5][0xb9][0xb4][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe7][0xb2][0x89][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1145177">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe4][0xb8][0x89][0xe6][0x98][0x9f] G3586V [0xe7][0x99][0xbd][0xe8][0x89][0xb2] [0xe8][0x81][0x94][0xe9][0x80][0x9a]4G&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt;</str>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1100734182">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,004 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe5][0xa4][0xa7][0xe6][0x98][0xbe][0xef][0xbc][0x88]DaXian[0xef][0xbc][0x89]DX886 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe7][0xbf][0xbb][0xe7][0x9b][0x96][0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe6][0xb7][0xb1][0xe7][0xba][0xa2][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1152435448">[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe9][0x87][0x91][0xe5][0x9c][0xa3][0xe8][0xbe][0xbe][0xef][0xbc][0x88]GRSED[0xef][0xbc][0x89]A10-F [0xe8][0x81][0x94][0xe9][0x80][0x9a]/[0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe5][0x92][0x96][0xe5][0x95][0xa1][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  <lst name="1124158129">[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    <arr name="item_title">[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "      <str>[0xe6][0xac][0xa7][0xe5][0xa5][0x87] [0xe5][0xa5][0x87][0xe4][0xba][0x91]KV608 [0xe7][0xa7][0xbb][0xe5][0x8a][0xa8]/[0xe8][0x81][0x94][0xe9][0x80][0x9a]2G [0xe8][0x80][0x81][0xe4][0xba][0xba]&lt;em style="color:red"&gt;[0xe6][0x89][0x8b][0xe6][0x9c][0xba]&lt;/em&gt; [0xe5][0x8f][0x8c][0xe5][0x8d][0xa1][0xe5][0x8f][0x8c][0xe5][0xbe][0x85] [0xe5][0x92][0x96][0xe5][0x95][0xa1][0xe8][0x89][0xb2]</str>[\n]"
+2019-09-29 11:30:44,017 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "    </arr>[\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "  </lst>[\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "</lst>[\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "</response>[\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "[\r][\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "0[\r][\n]"
+2019-09-29 11:30:44,018 [http-bio-8083-exec-1] [org.apache.http.wire]-[DEBUG] http-outgoing-0 << "[\r][\n]"
+2019-09-29 11:30:44,019 [http-bio-8083-exec-1] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection [id: 0][route: {}->http://192.168.10.40:8080][state: class org.apache.solr.client.solrj.impl.HttpSolrClient] can be kept alive indefinitely
+2019-09-29 11:30:44,019 [http-bio-8083-exec-1] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-0: set socket timeout to 0
+2019-09-29 11:30:44,019 [http-bio-8083-exec-1] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Connection released: [id: 0][route: {}->http://192.168.10.40:8080][state: class org.apache.solr.client.solrj.impl.HttpSolrClient][total kept alive: 1; route allocated: 1 of 10000; total allocated: 1 of 10000]
+2019-09-29 11:30:44,153 [http-bio-8083-exec-1] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2019-09-29 11:30:44,157 [http-bio-8083-exec-1] [org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor]-[DEBUG] Writing [com.taotao.common.pojo.TaotaoResult@38b99edc]
+2019-09-29 11:30:44,237 [http-bio-8083-exec-1] [org.springframework.web.servlet.DispatcherServlet]-[DEBUG] Completed 200 OK
+2019-09-29 11:31:16,265 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:31:16,265 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:32:06,265 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:32:06,265 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:32:06,265 [Connection evictor] [org.apache.http.impl.conn.DefaultManagedHttpClientConnection]-[DEBUG] http-outgoing-0: Close connection
+2019-09-29 11:32:56,270 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:32:56,270 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:33:46,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:33:46,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:34:36,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:34:36,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:35:26,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:35:26,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:36:16,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:36:16,271 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:37:06,272 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:37:06,272 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:37:56,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:37:56,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:38:46,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:38:46,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:39:36,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:39:36,273 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:40:26,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:40:26,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:41:16,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:41:16,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:42:06,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:42:06,274 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:42:56,275 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:42:56,275 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:43:46,276 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:43:46,277 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:44:36,277 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:44:36,277 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:45:26,278 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:45:26,278 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:46:16,278 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:46:16,278 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:47:06,279 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:47:06,279 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:47:56,279 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:47:56,279 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:48:46,280 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:48:46,280 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:49:36,280 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:49:36,280 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:50:26,281 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:50:26,281 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:51:16,282 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:51:16,282 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
+2019-09-29 11:52:06,283 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing expired connections
+2019-09-29 11:52:06,283 [Connection evictor] [org.apache.http.impl.conn.PoolingHttpClientConnectionManager]-[DEBUG] Closing connections idle longer than 50000 MILLISECONDS
